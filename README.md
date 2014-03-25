@@ -6,7 +6,9 @@ This tool helps biologists generate qsub scripts for the Institute For Genomic B
 The directory structure is a bit strange, but it was my first go at making a neat one.
 
 /include/css/
+
 /include/js/
+
 /include/php/
 
 <h1>Heading</h1>
