@@ -1,0 +1,156 @@
+body{
+     padding-bottom: 70px; 
+    
+}
+
+.heading{   
+    margin:2%;
+    max-height: 150px;
+    min-width: 750px;
+    background-color: skyblue;
+    border-radius: 15px;
+    padding:20px;
+}
+
+.min_width{
+    min-width:800px;
+    
+}
+
+.plus{
+    
+    position:relative;
+    left:830px;
+    top:-35px;
+}
+
+
+form{
+    margin-top:10px
+}
+
+.custom_header{
+   font-family:Helvetica Neue, Helvetica, Arial, sans-serif;
+   font-size:20px ;
+    font-weight: 200;
+    height: 30px;
+}
+
+.sub_heading{
+    
+    margin-left:2%;
+    
+    min-width: 750px;
+    border-radius: 15px;
+    padding-left:20px;
+    padding-top:20px;
+}
+
+
+.options_div{
+    margin:2%;
+
+}
+
+#queue_info{
+  
+    margin-bottom: 100px;
+    
+    min-width:800px;
+}
+
+.min1000{
+     min-width:1000px !important;
+    
+    
+}
+
+.min800{
+     min-width:800px !important;
+    
+}
+input{
+    width:500px;
+    min-width:800px;
+    max-width:800px
+}
+
+.queue-info
+{
+    margin-left:10%;
+    float:left;
+    border:solid;
+    border-width: 1px;
+    min-width: 200px;
+     
+}
+.queue-info td
+{
+    border:dashed;   
+     border-width: 1px;
+     padding-left:5px;
+}
+
+.queue-info-container{
+       margin-top:1%;
+       margin-left:2%;
+       padding-top:1%;
+       min-height:250px;
+       min-width:1000px;
+       width:1000px;
+      
+       
+    
+}
+
+
+#form{
+   
+  /* margin:25px;
+
+  clear:both; */
+}
+
+#output{
+ 
+    margin-bottom: 25px;
+    font-family: Monaco,Menlo,Consolas,"Courier New",monospace;
+    background-color:#F8F8F8   ;
+    border:solid;
+    border-width: thin;
+    border-color: #C8C8C8  ;
+    font-size: 13px;
+    line-height:200%
+}
+
+#output div{
+    display:none;
+    
+}
+
+
+.comment{
+    font-style: italic
+}
+
+.question{
+    
+    cursor: pointer;
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    background-color: #89A4CC;
+    line-height: 16px;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 8px;
+    text-align: center;
+    position: relative;
+}
+
+.question:hover {
+    background-color: #3D6199;
+    
+    color:white;
+}
